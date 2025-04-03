@@ -9,7 +9,7 @@ const navLinks = [
   { name: "WELCOME", href: "/" },
   { name: "OUR SERVICES", href: "/services" },
   { name: "RENTAL", href: "/pricing" },
-  { name: "MARITIME TRANSPORT", href: "/contact" },
+  { name: "MARITIME TRANSPORT", href: "/maritime" },
   { name: "PRICE & RESERVATION", href: "/" },
   { name: "ABOUT", href: "/" },
   { name: "CONTACT", href: "/" },
